@@ -1,3 +1,4 @@
+%%writefile mcp_project/research_server.py
 import arxiv
 import json
 import os
